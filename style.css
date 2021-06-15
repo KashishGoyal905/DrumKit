@@ -28,3 +28,10 @@ body{
 .center{
     margin-top: 20px;
 }
+
+.animate{
+    transition:all 0.2s;
+    transform: scale(1.3);
+    border:4px solid yellow;
+}
+
