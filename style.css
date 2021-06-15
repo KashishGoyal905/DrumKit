@@ -1,0 +1,26 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    background-image: url("background.jpg");
+}
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.key{
+    background-color:rgba(17, 7, 7, 0.6);
+    color:rgb(238, 238, 248);
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-top: 22%;
+    border:5px solid black;
+}
+.sp{
+    color: yellow;
+}
