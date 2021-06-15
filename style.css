@@ -24,3 +24,7 @@ body{
 .sp{
     color: yellow;
 }
+
+.center{
+    margin-top: 20px;
+}
