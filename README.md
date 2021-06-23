@@ -1,8 +1,8 @@
 ## drumKit
 
-i) This Is A Drumkit Game.
-ii) Try opening in laptop/pc/desktop.
-iii) Basically, This will play a sound for u when u hit a specific key.
+1) This Is A Drumkit Game.
+2) Try opening in laptop/pc/desktop.
+3) Basically, This will play a sound for u when u hit a specific key.
 
 ## How To Open
 1) Fork The Repository:
